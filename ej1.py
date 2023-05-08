@@ -1,0 +1,7 @@
+print("¡Hola mundo!")
+print("Hola de nuevo")
+#print("Me gusta escribir esto.")
+#print("This is fun.")
+#print('Yay! Printing.')
+#print("I'd much rather you 'not'.")
+#print('I "said" do not touch this.')
